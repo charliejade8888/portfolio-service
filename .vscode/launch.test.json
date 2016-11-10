@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "portfolio-service",
+                "projectName": "portfolio-service",
+                "workingDirectory": "/home/sclater/Documents/my documents/my documents/programming/my projects/sia/portfolio-service",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "portfolio-service",
+                "projectName": "portfolio-service",
+                "workingDirectory": "/home/sclater/Documents/my documents/my documents/programming/my projects/sia/portfolio-service",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
